@@ -18,6 +18,8 @@ At FitCheck, our mission is to revolutionize the way you interact with fashion b
 - Digital Closet: ​Tag clothes from your closet in your outfits, and organize them by groups. Goodbye to your messy closet!
 - View Layouts: ​Customization is important to us, which is why we give you three completely different views you can use the app with.
 
+<br>
+
 ## App 2: CODES - NJ DFS
 
 ![NJDFS](dfs.png)
@@ -31,9 +33,11 @@ Improve firefighting capabilities with the NJ DFS CODES App, a collaborative eff
 
 Gain a comprehensive advantage by accessing county resources and department alarm assignments at your fingertips. The app's intuitive interface allows you to navigate through critical information effortlessly, enhancing situational awareness during emergencies. Stay informed and make informed decisions using real-time data, maximizing the effectiveness of your firefighting strategies. Join the league of proactive fire departments across New Jersey, embracing the future of firefighting coordination with the NJ DFS CODES App. Exclusively for use by NJ DFS.
 
+<br>
+
 ## App 3: River Vale Streets
 
-![NJDFS](dfs.png)
+![NJDFS](streets.png)
 
 ### Download
 [App Store Link](https://apps.apple.com/us/app/river-vale-streets/id6462086759)
@@ -42,6 +46,8 @@ Gain a comprehensive advantage by accessing county resources and department alar
 
 ### Description
 The River Vale Streets App was created to help first responders get to know their streets in town. This app has three ways to help you learn, the first is with Zones. This is the easiest mode as it lets you pick the general area of the streets in town. The hardest feature is Name the Street, which requires you to know exactly where the street is in town. The Blur tool is also a great feature that helps you learn the map on your own pace. Check out the app and make sure to submit feedback!
+
+<br>
 
 ## App 4: Mini Hockey Scoreboard
 
@@ -53,6 +59,8 @@ The River Vale Streets App was created to help first responders get to know thei
 
 ### Description
 A mini-hockey scoreboard! Put this on your phone or iPad and have a timer for each period with intermission time as well. The scoreboard has custom time, goal horns, and team names. Use this when you are playing mini hockey with your friends!
+
+<br>
 
 ## App 5: Ramsey Rescue
 
