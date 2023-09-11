@@ -72,4 +72,10 @@ A mini-hockey scoreboard! Put this on your phone or iPad and have a timer for ea
 
 
 ### Description
-A mini-hockey scoreboard! Put this on your phone or iPad and have a timer for each period with intermission time as well. The scoreboard has custom time, goal horns, and team names. Use this when you are playing mini hockey with your friends!
+ntroducing Ramsey Rescue, the exclusive app by CODES designed specifically for the dedicated members and officers of Ramsey Rescue Squad in Ramsey, NJ. This powerful app revolutionizes the way you access and manage critical information through an intuitive and secure platform.
+
+
+With CODES cutting-edge technology, you can now effortlessly enter and view crucial data on multiple devices, empowering interior crews to collect vital information using iPads while on the scene. From capturing photos to assigning emergency contacts, the app streamlines the reporting process like never before.
+
+
+Stay up-to-date with Pre-Plans as they are seamlessly updated with a direct link to the pre-plan database from incident reports. Responding to calls at unfamiliar locations is no longer a challenge. The location history and address contact lookup feature allows you to access comprehensive location records and contact details instantly, ensuring a swift and efficient response.
