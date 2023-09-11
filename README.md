@@ -41,6 +41,7 @@ Gain a comprehensive advantage by accessing county resources and department alar
 
 ### Download
 [App Store Link](https://apps.apple.com/us/app/river-vale-streets/id6462086759)
+
 [Google Play Store Link](https://play.google.com/store/apps/details?id=com.vkaralewich.RiverValeStreets&pcampaignid=web_share)
 
 
