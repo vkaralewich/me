@@ -72,7 +72,7 @@ A mini-hockey scoreboard! Put this on your phone or iPad and have a timer for ea
 
 
 ### Description
-ntroducing Ramsey Rescue, the exclusive app by CODES designed specifically for the dedicated members and officers of Ramsey Rescue Squad in Ramsey, NJ. This powerful app revolutionizes the way you access and manage critical information through an intuitive and secure platform.
+Introducing Ramsey Rescue, the exclusive app by CODES designed specifically for the dedicated members and officers of Ramsey Rescue Squad in Ramsey, NJ. This powerful app revolutionizes the way you access and manage critical information through an intuitive and secure platform.
 
 
 With CODES cutting-edge technology, you can now effortlessly enter and view crucial data on multiple devices, empowering interior crews to collect vital information using iPads while on the scene. From capturing photos to assigning emergency contacts, the app streamlines the reporting process like never before.
